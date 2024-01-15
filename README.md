@@ -1,2 +1,4 @@
 # linuxCommands
-This is a quick guide for linux commands. 
+This is a quick guide for Linux commands. 
+# linuxCommands
+This is a quick guide for Linux commands. 
